@@ -1,0 +1,2 @@
+- At the moment only works for Linux.
+- Requires you to have your LAMP environment set up beforehand
